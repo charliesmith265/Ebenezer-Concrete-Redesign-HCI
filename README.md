@@ -1,12 +1,12 @@
 # Centenary Bank Website Redesign - HCI Project 
 # Ebenezer Concrete Products - Website Redesign
 
-**Student:** [Your Name]  
-**Registration:** 20311055008  
-**Course:** BSC-CS & IT - 351 CP 81  
-**Module:** Human-Computer Interaction (HCI)  
-**Tool:** Adobe XD  
-**Due Date:** December 3, 2025
+Student: [KELVIN CHARLIE]  
+Registration: 20311055008  
+Course: BSC-CS & IT - 351 CP 81  
+Module: Human-Computer Interaction (HCI)  
+Tool: Adobe XD  
+Due Date: December 3, 2025
 
 ---
 
